@@ -7,11 +7,11 @@ matrix estimation CNN.
 
 ## Abstract
 Supervised machine learning methods require large-scale training datasets to perform well in practice. Synthetic data has been showing great progress recently and has been used as a complement to real data. However,
-there is still a great urge to assess the usability of synthetically generated data. To this end, we propose a novel \textit{UCB}-based training procedure combined with a dynamic usability metric. Our proposed metric integrates
-low-level and high-level information from synthetic images and their corresponding real and synthetic datasets, surpassing existing traditional metrics. Utilizing a \textit{UCB}-based dynamic approach ensures continual enhancement
+there is still a great urge to assess the usability of synthetically generated data. To this end, we propose a novel _UCB_-based training procedure combined with a dynamic usability metric. Our proposed metric integrates
+low-level and high-level information from synthetic images and their corresponding real and synthetic datasets, surpassing existing traditional metrics. Utilizing a _UCB_-based dynamic approach ensures continual enhancement
 of model learning. Unlike other approaches, our method effectively adapts to changes in the machine learning model's state and considers the evolving utility of training samples during the training process. We show that our metric
 is a simple yet effective way to rank synthetic images based on their usability. Furthermore, we propose a new pipeline for generating synthetic data by integrating a Large Language Model with Stable Diffusion. Our quantitative
-results show that we are able to boost the performance of a wide range of supervised classifiers by deploying our approach. Notably, we observed an improvement of up to $10\%$ in classification accuracy compared to traditional
+results show that we are able to boost the performance of a wide range of supervised classifiers by deploying our approach. Notably, we observed an improvement of up to 10% in classification accuracy compared to traditional
 metrics, demonstrating the effectiveness of our approach.
 
 ## Code, Datasets, and Simulator
