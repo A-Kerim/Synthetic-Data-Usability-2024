@@ -1,7 +1,7 @@
 # Multi-Armed Bandit Approach for Optimizing Training on Synthetic Data
 
 
-<img src='https://github.com/A-Kerim/Leveraging-Synthetic-Data-to-Learn-Video-Stabilization-Under-Adverse-Conditions/blob/3b137bb787e74e5a81e377918b96559e4a3c1130/imgs/introduction.png'>
+<img src='https://github.com/A-Kerim/Synthetic-Data-Usability-2024/blob/0584347267c14c7686efb7c7ca2d1dcfa964581b/our-metric.png'>
 Our key idea is to use specially-designed synthetic data to train an affine transformation
 matrix estimation CNN.
 
