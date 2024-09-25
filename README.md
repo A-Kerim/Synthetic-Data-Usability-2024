@@ -2,8 +2,7 @@
 
 
 <img src='https://github.com/A-Kerim/Synthetic-Data-Usability-2024/blob/0584347267c14c7686efb7c7ca2d1dcfa964581b/our-metric.png'>
-Our key idea is to use specially-designed synthetic data to train an affine transformation
-matrix estimation CNN.
+Each synthetic image, $I_i$, is assigned a usability score $\boldsymbol{U}$, which is derived from pixel-level and high-level information.
 
 ## Abstract
 Supervised machine learning methods require large-scale training datasets to perform well in practice. Synthetic data has been showing great progress recently and has been used as a complement to real data. However,
