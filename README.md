@@ -13,11 +13,15 @@ is a simple yet effective way to rank synthetic images based on their usability.
 results show that we are able to boost the performance of a wide range of supervised classifiers by deploying our approach. Notably, we observed an improvement of up to 10% in classification accuracy compared to traditional
 metrics, demonstrating the effectiveness of our approach.
 
-## Code, Datasets, and Simulator
-* Our video stabilization code can be downloaded using this link: [Click](https://livelancsac-my.sharepoint.com/:u:/g/personal/kerim_lancaster_ac_uk/EZv0pwUMO0tMnrhSdei63E0BfxG3rApSkRxL29KGkkXxRA?e=7qCYqi)
-* The VSNC35Synth and VSAC65Synth datasets can be downloaded using these links: [Part1](https://drive.google.com/file/d/15IX81jZuYrswblobBxx9EF378BESngWb/view?usp=sharing) and [Part2](https://drive.google.com/file/d/1FMpiJUABFNzMv_C3ef9pK31V-__OPlcx/view?usp=sharing)
-* The Silver simulator can be downloaded using this link: [Click](https://livelancsac-my.sharepoint.com/:u:/g/personal/kerim_lancaster_ac_uk/EXmc7xfRKzVJj5Ix8P2AmZQB5KE4QcomfryRqGdlSfQxuw)
+## Synthetic Datasets
+* SA-Car-2, SA-CIFAR-10, and SA-Birds-525 can be downloaded from the following [link](https://drive.google.com/file/d/16Tg9rOYYaChRTpwNj44c4skPE5We9PaX/view?usp=drive_link).
+* SP-Car-2, SP-CIFAR-10, and SP-Birds-525 can be downloaded from the following [link](https://drive.google.com/file/d/1c1PuSFV3iZ0vpoqHBaoDOves1sdCIyTk/view?usp=drive_link)
 
+## Real Datasets
+* [Car Accidents Dataset](https://drive.google.com/file/d/1f1vYYQ0duM50MouKghRr-dejeVZT4Hd8/view?usp=drive_link)
+* [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
+* [Birds](https://drive.google.com/file/d/1NvVfcrvXNOzX8mz1A-yhudegYJZXprSJ/view?usp=drive_link)
+  
 ## Contact Authors
 * Abdulrahman Kerim, PostDoc at Surrey University, a.kerim@surrey.ac.uk
 * Leandro Soriano Marcolino, Lecturer at Lancaster University, l.marcolino@lancaster.ac.uk
