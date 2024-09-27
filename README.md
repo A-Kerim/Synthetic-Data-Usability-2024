@@ -15,7 +15,7 @@ metrics, demonstrating the effectiveness of our approach.
 
 ## Synthetic Datasets
 * SA-Car-2, SA-CIFAR-10, and SA-Birds-525 can be downloaded from the following [link](https://drive.google.com/file/d/16Tg9rOYYaChRTpwNj44c4skPE5We9PaX/view?usp=drive_link).
-* SP-Car-2, SP-CIFAR-10, and SP-Birds-525 can be downloaded from the following [link](https://drive.google.com/file/d/1c1PuSFV3iZ0vpoqHBaoDOves1sdCIyTk/view?usp=drive_link)
+* SP-Car-2, SP-CIFAR-10, and SP-Birds-525 can be downloaded from the following [link](https://drive.google.com/file/d/1c1PuSFV3iZ0vpoqHBaoDOves1sdCIyTk/view?usp=drive_link).
 
 ## Real Datasets
 * [Car Accidents Dataset](https://drive.google.com/file/d/1f1vYYQ0duM50MouKghRr-dejeVZT4Hd8/view?usp=drive_link)
